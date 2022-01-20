@@ -19,7 +19,7 @@ namespace ConsoleApp1
 
     class Program
     {
-        static void 1Main(string[] args)
+        static void Main(string[] args)
         {
             PowerList demoObj = new PowerList();
 
