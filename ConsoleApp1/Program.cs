@@ -23,7 +23,7 @@ namespace ConsoleApp1
         {
             PowerList demoObj = new PowerList();
 
-            // Display powers of 2 up to the exponent 10
+            // перечисление степеней двойки до 10
             foreach (var value in demoObj.Power(2, 10))
             {
                 Console.Write("{0} ", value);
